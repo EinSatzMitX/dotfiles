@@ -1,0 +1,7 @@
+# Vesktop
+.config/vesktop/sessionData
+.config/vesktop/sessionData/*
+.config/vesktop/Crashpad/
+.config/vesktop/Singleton*
+.config/vesktop/state.json
+.config/vesktop/settings/native-settings.json
