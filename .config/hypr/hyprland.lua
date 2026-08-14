@@ -16,6 +16,8 @@
 -- Create your files separately and then require them like this:
 -- require("myColors")
 
+require("monitor_config")
+
 
 ------------------
 ---- MONITORS ----
@@ -23,8 +25,6 @@
 
 -- See https://wiki.hypr.land/Configuring/Basics/Monitors/
 
-hl.monitor({ output = "DP-1", mode = "1920x1080@144.00", position = "0x0", scale = 1 })
-hl.monitor({ output = "DP-2", mode = "1920x1080@74.97", position = "1920x0", scale = 1 })
 
 ---------------------
 ---- MY PROGRAMS ----
