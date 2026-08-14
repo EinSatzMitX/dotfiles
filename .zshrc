@@ -65,7 +65,7 @@ zstyle ':fzf-tab:complete:*' fzf-preview 'eza -1 --icons --color=always $realpat
 
 # Aliases
 alias ls='ls --color'
-alias v='vim'
+alias v='nvim'
 alias c='clear'
 
 # Shell integrations

@@ -1,0 +1,12 @@
+@define-color bar-bg rgba(0, 0, 0, 0);
+
+@define-color main-bg #282828; /* Gruvbox dark grey */
+@define-color main-fg #ebdbb2; /* Gruvbox light foreground */
+
+@define-color wb-act-bg #3c3836; /* Gruvbox medium grey for active background */
+@define-color wb-act-fg #d5c4a1; /* Gruvbox muted light foreground for active text */
+
+@define-color wb-hvr-bg #504945; /* Gruvbox slightly lighter grey for hover background */
+@define-color wb-hvr-fg #f2e5bc; /* Gruvbox brighter foreground for hover text */
+
+
