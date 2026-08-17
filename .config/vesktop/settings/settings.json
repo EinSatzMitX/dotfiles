@@ -511,7 +511,7 @@
             "enabled": false
         },
         "VolumeBooster": {
-            "enabled": false
+            "enabled": true
         },
         "WebKeybinds": {
             "enabled": true
@@ -539,6 +539,24 @@
             "enabled": true,
             "settingsLocation": "aboveNitro",
             "includeVencordInfoWhenCopying": true
+        },
+        "ConcatenatedComponentExtractor": {
+            "enabled": true
+        },
+        "ContextMenuAPI": {
+            "enabled": true
+        },
+        "DisableDeepLinks": {
+            "enabled": true
+        },
+        "NoticesAPI": {
+            "enabled": true
+        },
+        "SupportHelper": {
+            "enabled": true
+        },
+        "WebContextMenus": {
+            "enabled": true
         }
     },
     "uiElements": {
@@ -555,6 +573,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1786621737607
+        "settingsSyncVersion": 1786910557803
     }
 }
