@@ -11,6 +11,8 @@ return {
             "rust",
             "c",
             "markdown",
+	    "asm",
+	    "assembly",
         },
         auto_install = false,
     },

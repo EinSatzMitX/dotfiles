@@ -10,3 +10,10 @@
 - lua
 - vesktop
 - kitty
+- btop
+- lua
+- luarocks
+- waybar
+- nodejs
+- yarn
+- spotify-player
